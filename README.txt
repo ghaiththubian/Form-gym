@@ -1,0 +1,1 @@
+FORM V5: Upload index.html, icon.png, manifest.webmanifest, sw.js to the root of the GitHub Pages repository. Existing training data stays on the same origin. Profile stored locally. Email is not sent. Back up data regularly.
